@@ -4,7 +4,7 @@ I'm Miles, an aspiring computer scientist based in the UK. My favourite language
 
 - 🔭 I’m working on a distributed social media, written in C#
 - 🌱 I’m learning about cool algorithms to use in competitive programming 
-- 🤔 I’m looking for help with understanding the double ratchet algorithm 
+- 🤔 I’m looking for open source projects to contribute to
 - 💬 Ask me about anything I'm working on 
 - 😄 Pronouns: he/him/his 
 - :headphones: Fun fact: I love all things music! 
