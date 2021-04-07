@@ -9,9 +9,9 @@ Hi! I'm an aspiring backend developer with a drive to succeed. I love creating i
  - Relational (SQLite) and NoSQL databases (Dynamo / Mongo)
  - Fast learner, strong mathematical foundation and logical mindset
 
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=mileswatson&hide=contribs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My's github stats](https://github-readme-stats.vercel.app/api?username=mileswatson&hide=contribs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileswatson&layout=compact&exclude_repo=mileswatson.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileswatson&layout=compact&exclude_repo=mileswatson.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/watsonmiles/)
