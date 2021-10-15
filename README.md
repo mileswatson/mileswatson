@@ -1,20 +1,47 @@
+<h2 align="center">Hi, I'm Miles</h2>
 
-### About
-Hi! I'm an aspiring backend developer with a drive to succeed. I love creating innovative products and am passionate about writing clean, maintainable, and scalable code.
+:computer: **Skills**
 
-### Skills
- - C# / ASP.NET / WPF
- - Serverless Framework (AWS Lambda + API Gateway)
- - Basic web development (Svelte)
- - Relational (SQLite) and NoSQL databases (Dynamo / Mongo)
- - Fast learner, strong mathematical foundation and logical mindset
+- My top technologies are **C#** and **Rust**, with an occasional sprinkling of **JS/TS**.
+- I'm currently building a platform for **selling software** on the **blockchain**.
+- I also know some **Python**, **Go** and **Java**, and sometimes I think I know **AWS** and **Docker**. 
+- From time to time I experiment with **functional programming** (F#, OCaml) or, when the stars align, **quantum computing**.
+- My interests include **Distributed Systems** (especially decentralized ones), **Cloud Computing**, and **Concurrent/Async Programming**.
 
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=mileswatson&hide=contribs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mileswatson&layout=compact&exclude_repo=mileswatson.github.io)](https://github.com/anuraghazra/github-readme-stats)
+***
 
+:globe_with_meridians: **Links** 
 
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/miles__watson "Twitter") [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/watsonmiles/ "LinkedIn") [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7511598 "Stack Overflow") [![DEV](https://img.shields.io/badge/-DEV-black?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mileswatson "DEV Community") [![Portfolio](https://img.shields.io/badge/-Portfolio-black?&style=for-the-badge&logoColor=white)](https://github.com/mileswatson?tab=repositories "Repositories")
 
-### Links
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/watsonmiles/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mileswatson)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miles__watson)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7511598)
+***
+
+:writing_hand: **Latest posts**
+
+<!-- BLOG-POST-LIST:START -->
+
+- [URL Shortener with Rust, Svelte, and AWS (1/6)](https://blog.mileswatson.net/url-shortener-with-rust-svelte-and-aws-1-intro-setup)
+- [Creating Better Applications with MVVM](https://blog.mileswatson.net/creating-better-applications-with-mvvm)
+- [What is Async Programming, and Why Should You Care?](https://blog.mileswatson.net/what-is-async-programming-and-why-should-you-care)
+- [Programming is Ruining My Life - What I'm Doing About It](https://blog.mileswatson.net/programming-is-ruining-my-life-what-im-doing-about-it)
+
+<!-- BLOG-POST-LIST:END -->
+
+***
+
+<details>
+    <summary>:chart_with_upwards_trend: <b>Stats</b></summary>
+    <b>GitHub</b><br>
+    <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mileswatson&hide_rank=true&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&line_height=20&disable_animations=true">  
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mileswatson&layout=compact&exclude_repo=mileswatson.github.io">
+    </a>
+    </p>
+</details>
+
+***
+
+<h4 align="center">Feel free to :star: any repos you like!</h4>
+
