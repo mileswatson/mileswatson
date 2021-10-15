@@ -6,7 +6,7 @@
 - I'm currently building a platform for **selling software** on the **blockchain**.
 - I also know some **Python**, **Go** and **Java**, and sometimes I think I know **AWS** and **Docker**. 
 - From time to time I experiment with **functional programming** (F#, OCaml) or, when the stars align, **quantum computing**.
-- My interests include **Distributed Systems** (especially decentralized ones), **Cloud Computing**, and **Concurrent/Async Programming**.
+- My interests include **distributed systems** (especially decentralized ones), **cloud computing**, and **concurrent/async programming**.
 
 ***
 
