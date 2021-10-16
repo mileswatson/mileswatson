@@ -31,7 +31,7 @@
 
 <details>
     <summary>:chart_with_upwards_trend: <b>Stats</b></summary>
-    <b>GitHub</b><br>
+    <br>
     <p align="left"><a href="https://github.com/anuraghazra/github-readme-stats">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=mileswatson&hide_rank=true&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&line_height=20&disable_animations=true">  
     </a>
